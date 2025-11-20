@@ -1,7 +1,14 @@
+ipython==8.12.3
+librosa==0.11.0
 matplotlib==3.10.7
+networkx==3.5
 numpy==2.3.5
 pandas==2.3.3
-sklearn==0.0.post12
-torch==2.9.1
-torchaudio==2.9.1
+requests==2.32.3
+scipy==1.16.3
+scikit-learn==1.7.2
+soundfile==0.13.1
+torch==2.5.1+cu121
+torchaudio==2.5.1+cu121
 torchlibrosa==0.1.0
+torchvision==0.20.1+cu121
